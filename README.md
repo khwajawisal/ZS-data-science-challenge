@@ -6,4 +6,5 @@ MLP based classifier,catboost,adaboost,random forest,Lightgbm and XGboost.
 At 2nd level i.e. i tried various models as meta learners the best results were given by MLP based classifier with an accuarcay of 78% and LB score of 0.956 the LB rank at this score was 9th all india
 although i was not able to submit this solution as i realised later that my handling of missing values was not proper plus targget mean encoding really helped me in improving my results significantly
 You can try other modifications i neglected the adoption of time series analysis and i personally feel using time series will definetly help you 
-break past 0.97 mark.Good Luck .Have fun and don't forget to give credit if you happen to use this code.
+break past 0.97 mark.Good Luck .Have fun and don't forget to give credit if you happen to use this code.Datazs.csv is the original dataset provided in the competition.
+
